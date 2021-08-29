@@ -2,7 +2,7 @@
 
 
 
-Nice to meet you! :)
+Nice to meet you! 😄
 
 Here you can see the projects I have been working on, besides the grouped project that we did with friends from the Henry Boot Camp https://github.com/martinnegro/Psitesis/
 
